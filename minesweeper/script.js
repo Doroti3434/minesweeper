@@ -5,7 +5,7 @@ var columns = 8;
 var minesCount = 10;
 var minesLocation = []; // "2-2", "3-4", "2-1"
 
-var tilesClicked = 0; //goal to click all tiles except the ones containing mines
+var tilesClicked = 0;
 var flagEnabled = false;
 
 var gameOver = false;
